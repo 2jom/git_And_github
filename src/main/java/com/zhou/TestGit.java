@@ -7,6 +7,7 @@ public class TestGit {
         System.out.println("master");
         System.out.println("branch1");
         System.out.println("branch2");
-
+        System.out.println("push test");
     }
+
 }
